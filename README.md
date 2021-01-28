@@ -9,4 +9,4 @@ I’m a Cloud Engineer, Solutions Architect and Geek. I have a keen interest in 
 - 💬  Ask me about DevOps, Cloud Computing, Distributed Systems and Evolutionary Architectures.
 - 📫  How to reach me: fare.abdel@gmail.com, Twitter [@abdelFare](https://twitter.com/abdelFare) or LinkedIn [@abdelino](https://www.linkedin.com/in/abdelino)
 - 😄  Pronouns: he/his
-- 🚴🏽‍♀️  Fun fact: I love listening to podcast and I'm preparing mine.
+- 🚴🏽‍♀️  Fun fact: I love listening to podcast and I prepare mine.
