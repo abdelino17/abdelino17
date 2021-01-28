@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/abdelino17/abdelino17/blob/main/undraw_dev_illustration.png" alt="Illustration of a productive dev" width=400px height=465px/>
+<img align="right" src="https://github.com/abdelino17/abdelino17/blob/main/undraw_dev_productivity_umsq.svg" alt="Illustration of a productive dev" width=400px height=465px/>
 
 ### Hi, I'm Abdel 👋
 
