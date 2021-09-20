@@ -6,7 +6,7 @@
 
 I’m a Cloud Engineer, Solutions Architect and Geek. I have a keen interest in DevOps, Cloud services, Distributed Systems and modern architectures.
 
-- 📱    I’m currently working at WeScale, A squad of Cloud Experts with only one objective: Build your Cloud Infrastructure.
+- 📱     I work at WeScale, A squad of Cloud Experts with only one objective: Build your Cloud Infrastructure.
 - 🤓    I’m currently learning Rust.
 - 💬    Ask me about DevOps, Cloud Computing, Distributed Systems and Evolutionary Architectures.
 - 📫    How to reach me: fare.abdel@gmail.com, Twitter [@abdelFare](https://twitter.com/abdelFare) or LinkedIn [@abdelino](https://www.linkedin.com/in/abdelino)
