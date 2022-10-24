@@ -15,5 +15,5 @@ I’m a Cloud Engineer, Solutions Architect and Geek. I have a keen interest in 
 
 ### Blog posts
 - [Package your FastAPI application with “Distroless” Docker Images](https://dev.to/abdelino17/package-your-fastapi-application-with-distroless-docker-images-16k9)
-- [Create your next s3 Bucket with AWS CDK and Terraform]([https://harshcool.hashnode.dev/how-to-deal-with-tle](https://dev.to/abdelino17/create-your-next-s3-bucket-with-aws-cdk-and-terraform-3359))
+- [Create your next s3 Bucket with AWS CDK and Terraform](https://dev.to/abdelino17/create-your-next-s3-bucket-with-aws-cdk-and-terraform-3359)
 - [Building a package as per the PyPA Guidelines](https://dev.to/abdelino17/building-a-package-as-per-the-pypa-guidelines-1h4)
