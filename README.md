@@ -6,14 +6,14 @@
 
 I’m a Cloud Engineer (4xAWS) with a keen interest in DevOps, Cloud services, Distributed Systems, and modern architectures.
 
-- 📱    I work at WeScale, A squad of Cloud Experts with only one objective: Build your Cloud Infrastructure.
-- 🤓    I’m currently learning Rust.
-- 💬    Ask me about DevOps, Cloud Computing, Distributed Systems and Evolutionary Architectures.
-- 📫    How to reach me: fare.abdel@gmail.com, Twitter [@abdelFare](https://twitter.com/abdelFare) or LinkedIn [@abdelino](https://www.linkedin.com/in/abdelino)
+- 📱    I work at Aviv Group, One of the world’s largest digital real estate tech businesses and a subsidiary of Axel Springer, including some of Europe’s best-known digital real estate, classified companies: Groupe SeLoger and Meilleurs Agents (France), Immowelt Group (Germany), Immoweb (Belgium) and Yad2 (Israel).
+- 🤓    I'm playing with gpt4, llama_index and langchain.
+- 💬    Ask me about DevOps, Cloud Computing, Distributed Systems, and Evolutionary Architectures.
+- 📫    How to reach me: abdel.fare@pm.me, Twitter [@abdelFare](https://twitter.com/abdelFare) or LinkedIn [@abdelino](https://www.linkedin.com/in/abdelino)
 - 😄    Pronouns: he/his
-- 🚴🏽‍♀️  Fun fact: I love listening to podcast and I prepare mine.
+- 🚴🏽‍♀️    Fun fact: I love traveling and listening to podcasts.
 
 ### Blog posts
-- [Package your FastAPI application with “Distroless” Docker Images](https://dev.to/abdelino17/package-your-fastapi-application-with-distroless-docker-images-16k9)
-- [Create your next s3 Bucket with AWS CDK and Terraform](https://dev.to/abdelino17/create-your-next-s3-bucket-with-aws-cdk-and-terraform-3359)
-- [Building a package as per the PyPA Guidelines](https://dev.to/abdelino17/building-a-package-as-per-the-pypa-guidelines-1h4)
+- [Package your FastAPI application with “Distroless” Docker Images](https://blog.abdelfare.me/post/package-fastapi-with-distroless)
+- [How to deploy your next FastAPI app on AWS with AppRunner in less than 5 minutes?](https://blog.abdelfare.me/post/fastapi-app-with-apprunner)
+- [Is it time to Learn Golang?](https://blog.abdelfare.me/post/time-to-learn-golang)
