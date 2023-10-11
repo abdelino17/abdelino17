@@ -6,7 +6,7 @@
 
 I’m a Cloud Engineer (4xAWS) with a keen interest in DevOps, Cloud services, Distributed Systems, and modern architectures.
 
-- 📱    I work at Aviv Group, One of the world’s largest digital real estate tech businesses and a subsidiary of Axel Springer, including some of Europe’s best-known digital real estate, classified companies: Groupe SeLoger and Meilleurs Agents (France), Immowelt Group (Germany), Immoweb (Belgium) and Yad2 (Israel).
+- 📱    I work at Aviv Group, One of the world’s largest digital real estate tech businesses.
 - 🤓    I'm playing with gpt4, llama_index and langchain.
 - 💬    Ask me about DevOps, Cloud Computing, Distributed Systems, and Evolutionary Architectures.
 - 📫    How to reach me: abdel.fare@pm.me, Twitter [@abdelFare](https://twitter.com/abdelFare) or LinkedIn [@abdelino](https://www.linkedin.com/in/abdelino)
