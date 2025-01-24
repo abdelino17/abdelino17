@@ -13,7 +13,7 @@ I’m a Cloud Engineer (8xAWS) with a keen interest in DevOps, Cloud services, D
 - 😄    Pronouns: he/his
 - 🚴🏽‍♀️    Fun fact: I love traveling and listening to podcasts.
 
-### Blog posts
+### Recent Blog posts
 - [Package your FastAPI application with “Distroless” Docker Images](https://blog.abdelfare.me/post/package-fastapi-with-distroless)
-- [How to deploy your next FastAPI app on AWS with AppRunner in less than 5 minutes?](https://blog.abdelfare.me/post/fastapi-app-with-apprunner)
+- [How to deploy a SpringBoot API on AWS ECS using CDKTF?](https://blog.abdelfare.me/post/deploy-springboot-on-aws-ecs-using-cdktf)
 - [Is it time to Learn Golang?](https://blog.abdelfare.me/post/time-to-learn-golang)
