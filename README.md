@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/abdelino17/abdelino17/blob/main/undraw_dev_productivity_umsq.svg" alt="Illustration of a productive dev" width=400px height=465px/>
 
-I’m a Cloud Engineer (8xAWS) with a keen interest in DevOps, Cloud services, Distributed Systems, and modern architectures.
+I’m a Cloud Engineer with a keen interest in DevOps, Cloud services, Distributed Systems, and modern architectures.
 
 - 📱    I work at Aviv Group, One of the world’s largest digital real estate tech businesses.
 - 🤓    I'm playing with gpt4, llama_index and langchain.
