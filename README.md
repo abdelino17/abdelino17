@@ -7,7 +7,7 @@
 I’m a Cloud Engineer with a keen interest in DevOps, Cloud services, Distributed Systems, and modern architectures.
 
 - 📱    I work at Aviv Group, a digital real estate tech business.
-- 🤓    I'm playing with gpt4, llama_index and langchain.
+- 🤓    I'm playing with bedrock, strands and langchain.
 - 💬    Ask me about DevOps, Cloud Computing, Distributed Systems, and Evolutionary Architectures.
 - 📫    How to reach me: abdel.fare@pm.me, Twitter [@abdelFare](https://twitter.com/abdelFare) or LinkedIn [@abdelino](https://www.linkedin.com/in/abdelino)
 - 😄    Pronouns: he/his
