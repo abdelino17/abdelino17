@@ -16,4 +16,4 @@ I’m a Cloud Engineer with a keen interest in DevOps, Cloud services, Distribut
 ### Recent Blog posts
 - [Package your FastAPI application with “Distroless” Docker Images](https://blog.abdelfare.me/post/package-fastapi-with-distroless)
 - [How to deploy a SpringBoot API on AWS ECS using CDKTF?](https://blog.abdelfare.me/post/deploy-springboot-on-aws-ecs-using-cdktf)
-- [Is it time to Learn Golang?](https://blog.abdelfare.me/post/time-to-learn-golang)
+- [Learn Linux Is Easy](https://blog.abdelfare.me/post/learn-tech/learn-linux-is-easy)
